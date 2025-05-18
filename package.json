@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://alexidd11.github.io/david-portfolio/",
+  "homepage": "https://alexidd11.github.io/david_portfolio/",
   "scripts": {
     "predeplay": "npm run build",
     "deplay":"gh-pages -d dist",
